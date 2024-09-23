@@ -19,7 +19,7 @@ Before setting up the bot, make sure you have the following:
 ## Installation
 1. Clone this repository or download the files:
 ```bash
-git clone https://github.com/your-repo/whisper-telegram-bot.git
+git clone https://github.com/Ilippy/dialecto_bot.git
 cd whisper-telegram-bot
 ```
 2. Create a virtual environment and activate it:
