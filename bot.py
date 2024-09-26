@@ -16,7 +16,7 @@ BOT_TOKEN = os.getenv("BOT_TOKEN")
 # Initialize the Whisper model (you can choose a specific model like 'base', 'small', etc.)
 whisper_model = whisper.load_model("base")
 
-# Create the bot and dispatcher with memory storage
+# Create the bot and dispatcher
 bot = Bot(token=BOT_TOKEN)
 dp = Dispatcher()
 router = Router()
