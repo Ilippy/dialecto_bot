@@ -1,4 +1,4 @@
-# Whisper Telegram Bot
+# Dialecto Telegram Bot
 This is a Telegram bot that uses OpenAI's Whisper model to transcribe voice messages into text. 
 The bot allows users to send voice messages, which are then transcribed into text using Whisper, 
 a powerful speech-to-text model.
